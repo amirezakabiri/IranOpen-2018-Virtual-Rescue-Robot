@@ -1,0 +1,24 @@
+robot positions:	x	y
+-8  -40
+-5  -40
+-2  -40
+8  -40
+5  -40
+2  -40
+
+
+
+timing:
+2 minutes drive
+7 minutes autonomous
+2 minute drive
+7 minutes autonomous
+2 minute drive
+
+
+max size:
+220*220
+
+coefs:
+LambdaS 1
+LambdaV 0
