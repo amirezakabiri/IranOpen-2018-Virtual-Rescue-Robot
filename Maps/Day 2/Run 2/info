@@ -1,0 +1,19 @@
+robot positions:	x	y
+
+
+
+timing:
+2 minutes drive
+7 minutes autonomous
+2 minute drive
+7 minutes autonomous
+2 minute drive
+
+
+max size:
+164*84
+
+coefs:
+LambdaS 0.7
+LambdaV 0.3
+alpha 0.6
